@@ -40,6 +40,9 @@ You may see Streamlit instance open in your browser shortly. Interact with Finte
 ---
 ## Fintech Finder Validator Transactions Results
 
+**Note:** Take note of 'Sender Address' and 'To Contract Address'in the Ganache window.
+
+
 |Scenario: Ganache Running|
 |:-:|
 |![Step 1](Images//results/step1.png)|
