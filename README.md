@@ -38,7 +38,7 @@ To use the Fintech Finder program, follow the key steps described as below:
 You may see Streamlit instance open in your browser shortly. Interact with Fintech Finder using the drop-down and textbox on the left sidebar.
 
 ---
-## Fintech Finder Validator Transactions Results
+## Fintech Finder Transactions Results
 
 **Note:** Take note of 'Sender Address' and 'To Contract Address'in the Ganache window.
 
